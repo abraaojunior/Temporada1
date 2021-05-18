@@ -1,0 +1,5 @@
+C:\DIO\drausio\Temporada1\AcessoBancoDados\obj\Debug\net5.0\AcessoBancoDados.csprojAssemblyReference.cache
+C:\DIO\drausio\Temporada1\AcessoBancoDados\obj\Debug\net5.0\AcessoBancoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\drausio\Temporada1\AcessoBancoDados\obj\Debug\net5.0\AcessoBancoDados.AssemblyInfoInputs.cache
+C:\DIO\drausio\Temporada1\AcessoBancoDados\obj\Debug\net5.0\AcessoBancoDados.AssemblyInfo.cs
+C:\DIO\drausio\Temporada1\AcessoBancoDados\obj\Debug\net5.0\AcessoBancoDados.csproj.CoreCompileInputs.cache
